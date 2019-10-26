@@ -16,7 +16,7 @@ def monopoly_with_third_tier
 	hash = {:railroads => {
 	  :pieces => 4,
 	  :rent_in_dollars => {
-	    :key1 => "value",
+	    :one_piece_owned => 25,
 	    :key2 => "value",
 	    :key3 => "value",
 	    :key4 => "value"
