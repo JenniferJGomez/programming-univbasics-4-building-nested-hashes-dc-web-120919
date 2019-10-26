@@ -21,7 +21,12 @@ def monopoly_with_third_tier
 	    :key3 => "value",
 	    :key4 => "value"
 	  },
-	    :names => "value"
+	    :names => {
+	      :key5 => "value",
+	      :key6 => "value",
+	      :key7 => "value",
+	      :key8 => "value"
+	    }
 	  }
 	}
 end
